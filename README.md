@@ -5,7 +5,7 @@
 - 👯 I’m 19 years old and I live in Iran/Tehran
 - 😄 Eager to collaborate on your projects
 - 👨‍💼 I am currently looking for employment
-- 💪 Ask me about C#, Python
+- 💪 Ask me about C#, Python, ASP.NET, WPF, CNN
 - 🤖 I’m currently learning MashinLearning and Machine vision
   <hr/>
 - 🔢 Call Number : 09921283921
