@@ -22,6 +22,7 @@ Connect with me:
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" rel="nofollow"> <img src="https://github.com/MohammadJavadZabihi/MohammadJavadZabihi/assets/128359759/5999bcc1-c8d0-48fd-a604-9898b18e1d61" width="50" height="50" style="max-width: 100%;"> </a>
 <a href="https://https://www.python.org/" rel="nofollow"> <img src="https://github.com/MohammadJavadZabihi/MohammadJavadZabihi/assets/128359759/72a6cd70-6180-4846-a75d-5d7b9f4873be" alt="css3" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/xaml/?view=netdesktop-8.0" rel="nofollow"> <img src="https://github.com/MohammadJavadZabihi/MohammadJavadZabihi/assets/128359759/6d5c577d-5714-47d5-a908-6b24a66c3492" alt="css3" width="40" height="40" style="max-width: 100%;"> </a>
 
 <!--
