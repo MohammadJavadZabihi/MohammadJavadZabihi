@@ -15,7 +15,7 @@ Connect with me:
 
 <a href="https://t.me/Toxix83" rel="nofollow"><img align="center" src="https://github.com/MohammadJavadZabihi/MohammadJavadZabihi/assets/128359759/c6fa5902-b2a2-4dfd-b2b5-8d001aaf0659" height="40" width="40" style="max-width: 100%;"></a>
 <a rel="nofollow"><img align="center" src="https://github.com/MohammadJavadZabihi/MohammadJavadZabihi/assets/128359759/f9988c19-450f-4419-b645-2ed23d25547e" height="40" width="40" style="max-width: 100%;"></a>
-<a href="https://mailto:miladkazemikhaledi@gmail.com" rel="nofollow"><img align="center" src="https://github.com/MohammadJavadZabihi/MohammadJavadZabihi/assets/128359759/87672a90-f4ec-4b39-92e3-262dfe5bbb36" height="40" width="40" style="max-width: 100%;"></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mahanzabihi12345@gmail.com&su=subject_here&body=body_here" rel="nofollow"><img align="center" src="https://github.com/MohammadJavadZabihi/MohammadJavadZabihi/assets/128359759/87672a90-f4ec-4b39-92e3-262dfe5bbb36" height="40" width="40" style="max-width: 100%;"></a>
 
 <h2 >Languages and Tools:</h2>
 
