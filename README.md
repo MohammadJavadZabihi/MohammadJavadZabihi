@@ -26,6 +26,9 @@ Connect with me:
 <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://learn.microsoft.com/en-us/dotnet/desktop/wpf/xaml/?view=netdesktop-8.0" rel="nofollow"> <img src="https://github.com/MohammadJavadZabihi/MohammadJavadZabihi/assets/128359759/6d5c577d-5714-47d5-a908-6b24a66c3492" alt="css3" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16" rel="nofollow"> <img src="https://github.com/user-attachments/assets/ebc02385-fd8c-4c64-bd39-507b67d9c6f3" alt="css3" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" rel="nofollow"> <img src="https://github.com/user-attachments/assets/3a525f62-ce8f-4d25-a100-0b57f3604e72" alt="css3" width="40" height="40" style="max-width: 100%;"> </a>
+
 
 <!--
 
