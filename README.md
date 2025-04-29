@@ -29,7 +29,9 @@ Connect with me:
 <a href="https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16" rel="nofollow"> <img src="https://github.com/user-attachments/assets/ebc02385-fd8c-4c64-bd39-507b67d9c6f3" alt="css3" width="70" height="40" style="max-width: 100%;"> </a>
 <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" rel="nofollow"> <img src="https://github.com/user-attachments/assets/3a525f62-ce8f-4d25-a100-0b57f3604e72" alt="css3" width="80" height="40" style="max-width: 100%;"> </a>
 
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohammadJavadZabihi&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true" height="150" alt="languages graph"  />
+</div>
 <!--
 
 - 🌱 I’m currently learning Asp.Net, MashinLearning and Machine vision
